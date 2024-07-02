@@ -2,9 +2,9 @@
 
 A simple app to manage your ceramic glazes and pieces with [Instant](https://instantdb.com).
 
-<img width="300" alt="Screenshot 2024-07-02 at 1 01 42 PM" src="https://github.com/reichert621/glazepal/assets/5264279/0421ebe1-1719-4202-b65c-571675b81c5e">
-<img width="300" alt="Screenshot 2024-07-02 at 1 01 45 PM" src="https://github.com/reichert621/glazepal/assets/5264279/ca7dde4e-4e42-48ba-ab8d-c28a2586a0f8">
-<img width="300" alt="Screenshot 2024-07-02 at 1 00 49 PM" src="https://github.com/reichert621/glazepal/assets/5264279/42eb6243-9f3b-4922-b0b4-bae6fb12dce7">
+<img width="240" alt="Screenshot 2024-07-02 at 1 01 42 PM" src="https://github.com/reichert621/glazepal/assets/5264279/0421ebe1-1719-4202-b65c-571675b81c5e">
+<img width="240" alt="Screenshot 2024-07-02 at 1 01 45 PM" src="https://github.com/reichert621/glazepal/assets/5264279/ca7dde4e-4e42-48ba-ab8d-c28a2586a0f8">
+<img width="240" alt="Screenshot 2024-07-02 at 1 00 49 PM" src="https://github.com/reichert621/glazepal/assets/5264279/42eb6243-9f3b-4922-b0b4-bae6fb12dce7">
 
 ## Available Scripts
 
